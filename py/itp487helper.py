@@ -19,11 +19,13 @@ def to_mysql(df, host, port, user, password, database, table, debug = False):
       charset='utf8mb4',
       autocommit = True)
 
+  rows = len(df)
+  
   cursor = conn.cursor()
   cursor.execute("TRUNCATE " + table + " ;")
 
   # CHECK IF ANY DATA EXISTS TO INSERT
-  if len(df) < 1:
+  if len(rows) < 1:
     print('NO ROWS - NOTHING WAS DONE')
     return
   columnlist = df.columns.tolist()
@@ -50,7 +52,9 @@ def to_mysql(df, host, port, user, password, database, table, debug = False):
   # remove last ,
   sqlformat = sqlformat[:-1] + ')'
   
-  print('INSERTING ROWS INTO: ' + database + '.' + table)
+  print('INSERTING " + str(rows) + " ROWS INTO: ' + database + '.' + table)
+  div, mod = divmod(rows/10,60)
+  print('MAY TAKE UP APPROXIMATELY " + str(div) + ' M and ' + str(mod) + ' SECONDS')
   
   if debug:
     print('INSERT FORMAT STRING: ' + sqlformat)
