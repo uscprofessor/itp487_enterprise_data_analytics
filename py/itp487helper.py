@@ -8,7 +8,7 @@ to_mysql - inserts dataframe into mysql table
 def to_mysql(df, host, port, user, password, database, table):
   import pymysql
   import pandas as pd
-  try:
+
   conn = pymysql.connect(
       host=host,
       port=port,
