@@ -5,7 +5,7 @@
 """
 to_mysql - inserts dataframe into mysql table 
 """
-def to_mysql(df, host, port, user, password, database, table):
+def to_mysql(df, host, port, user, password, database, table, debug = False):
   import pymysql
   import pandas as pd
   import time
@@ -49,7 +49,9 @@ def to_mysql(df, host, port, user, password, database, table):
     sqlformat += '"%s",'
   # remove last ,
   sqlformat = sqlformat[:-1] + ')'
-  print('SQLFORMAT: ' + sqlformat)
+  
+  if debug:
+    print('SQLFORMAT: ' + sqlformat)
 
   start = time.time()
   count = 0
@@ -58,11 +60,12 @@ def to_mysql(df, host, port, user, password, database, table):
     for x in range(len(row)):
       formatlist.append(str(row[x]))
     insertsql = sqlformat % tuple(formatlist)
-    print(insertsql)
+    if debug:
+      print(insertsql)
     count += 1
     cursor.execute(insertsql)
 
   end = time.time()
-  print("COUNT: " + str(count))
+  print("ROWS ADDED: " + str(count))
   print("ELAPSED TIME: " + str(end-start))
   cursor.close()
