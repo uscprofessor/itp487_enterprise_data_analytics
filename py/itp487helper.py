@@ -54,7 +54,7 @@ def to_mysql(df, host, port, user, password, database, table, debug = False):
   
   print('INSERTING ' + str(rows) + ' ROWS INTO ' + database + '.' + table)
   div, mod = divmod(rows/10,60)
-  print('MAY TAKE APPROXIMATELY ' + str(div) + ' MINUTES and ' + str(mod) + ' SECONDS')
+  print('MAY TAKE UP TO ' + str(div) + ' MINUTES and ' + str(mod) + ' SECONDS')
   
   if debug:
     print('INSERT FORMAT STRING: ' + sqlformat)
