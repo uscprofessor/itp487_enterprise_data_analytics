@@ -1,1 +1,1 @@
-# itp487_enterprise_data_analytics
+# ITP 487 - Enterprise Data Analytics
