@@ -52,7 +52,7 @@ def to_mysql(df, host, port, user, password, database, table, debug = False):
   # remove last ,
   sqlformat = sqlformat[:-1] + ')'
   
-  print('INSERTING " + str(rows) + " ROWS INTO: ' + database + '.' + table)
+  print('INSERTING ' + str(rows) + ' ROWS INTO ' + database + '.' + table)
   div, mod = divmod(rows/10,60)
   print('MAY TAKE APPROXIMATELY ' + str(div) + ' M and ' + str(mod) + ' SECONDS')
   
