@@ -25,7 +25,7 @@ def to_mysql(df, host, port, user, password, database, table, debug = False):
   cursor.execute("TRUNCATE " + table + " ;")
 
   # CHECK IF ANY DATA EXISTS TO INSERT
-  if len(rows) < 1:
+  if rows < 1:
     print('NO ROWS - NOTHING WAS DONE')
     return
   columnlist = df.columns.tolist()
