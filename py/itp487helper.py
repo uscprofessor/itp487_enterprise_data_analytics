@@ -50,8 +50,10 @@ def to_mysql(df, host, port, user, password, database, table, debug = False):
   # remove last ,
   sqlformat = sqlformat[:-1] + ')'
   
+  print('INSERTING ROWS INTO: ' + database + '.' + table)
   
-  print('INSERTING ROWS USING: ' + sqlformat)
+  if debug:
+    print('INSERT FORMAT STRING: ' + sqlformat)
 
   start = time.time()
   count = 0
