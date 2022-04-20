@@ -1,0 +1,129 @@
+Personality,Grad_Year,Class,GPA,Transfer,International,Aca_Exp,Social_Exp,Merit_Scholarships,USC_Exp,Sex
+ISTJ-A,2024,Sophmore,> 3.6,No,Yes,4,4,0%,4,Male
+ENTP-T,2024,Sophmore,> 3.6,No,Yes,4,3,0%,4,Male
+INTP-A,2023,Junior,> 3.6,No,Yes,5,4,0%,4,Male
+ENFJ-T,2022,Senior,> 3.6,No,No,4,5,0%,4,Female
+INFJ-T,2023,Junior,> 3.6,No,No,5,3,50%,3,Female
+INTJ-T,2023,Junior,> 3.6,No,Yes,4,3,0%,3,Female
+ISTJ-A,2024,Sophmore,> 3.6,No,No,3,2,0%,2,Male
+INFJ-T,2024,Sophmore,> 3.6,No,No,4,3,0%,4,Female
+INTJ-T,2023,Junior,> 3.6,No,No,3,3,0%,3,Male
+ENTP-T,2023,Junior,> 3.6,No,Yes,4,4,0%,5,Female
+ENFP-T,2022,Senior,> 3.6,No,No,4,5,100%,5,Female
+ESTJ-A,2022,Senior,> 3.6,No,No,4,3,0%,4,Male
+INFJ-T,2022,Senior,3.3-3.6,"Yes, from a 2 year college",No,4,4,0%,4,Female
+ESTJ-A,2024,Sophmore,> 3.6,No,Yes,5,5,0%,5,Male
+ISFJ-T,2022,Senior,> 3.6,No,No,5,3,0%,5,Male
+INTP-A,2023,Junior,> 3.6,No,No,5,4,50%,5,Male
+ESFJ-T,2023,Junior,> 3.6,No,Yes,4,5,0%,4,Female
+ENFJ-T,2023,Junior,> 3.6,No,Yes,4,3,0%,4,Female
+ESTJ-A,2023,Junior,> 3.6,No,No,3,4,0%,4,Male
+ISTJ-T,2023,Junior,> 3.6,No,No,4,5,50%,4,Male
+ISFJ-T,2023,Junior,> 3.6,No,Yes,4,4,25%,4,Female
+ESFP-T,2022,Senior,> 3.6,No,No,4,4,100%,4,Male
+INFJ-T,2023,Junior,> 3.6,No,No,3,4,0%,3,Female
+ISFJ-T,2023,Junior,> 3.6,No,Yes,4,2,0%,3,Female
+INTP-A,2023,Junior,> 3.6,No,Yes,4,4,0%,4,Male
+INFJ-T,2022,Senior,> 3.6,No,Yes,3,3,25%,3,Male
+INFP-A,2023,Senior,3.3-3.6,No,No,4,4,0%,4,Male
+ENTP-A,2022,Senior,> 3.6,"Yes, from a 4 year college",Yes,4,3,0%,4,Male
+ENTP-T,2024,Sophmore,> 3.6,No,No,3,5,75%,3,Male
+INTP-T,2023,Junior,> 3.6,No,Yes,4,4,0%,4,Male
+ENTJ-T,2022,Senior,3.0-3.3,"Yes, from a 4 year college",No,2,2,0%,3,Male
+INFP-A,2022,Senior,> 3.6,"Yes, from a 4 year college",No,5,3,0%,4,Male
+INTJ-A,2022,Senior,3.0-3.3,No,No,4,4,25%,4,Female
+ISFP-A,2023,Junior,> 3.6,No,Yes,4,4,0%,4,Male
+ESFJ-A,2023,Junior,> 3.6,No,No,4,4,50%,4,Male
+ISTJ-T,2022,Senior,3.3-3.6,"Yes, from a 4 year college",No,3,2,75%,4,Female
+ENTJ-A,2022,Senior,3.3-3.6,No,No,5,5,100%,5,Female
+ISTJ-T,2022,Senior,> 3.6,No,No,3,4,0%,4,Female
+INFP-A,2022,Senior,> 3.6,"Yes, from a 2 year college",Yes,5,2,0%,3,Female
+INFP-T,2022,Senior,> 3.6,No,No,4,3,0%,4,Female
+INTJ-A,2022,Senior,3.3-3.6,No,No,5,4,25%,5,Female
+ISFJ-A,2023,Junior,> 3.6,"Yes, from a 4 year college",No,4,5,0%,5,Female
+INFP-A,2022,Senior,> 3.6,No,No,4,5,50%,4,Female
+ESTJ-A,2024,Sophmore,> 3.6,No,No,5,5,0%,5,Male
+INTJ-A,2022,Senior,> 3.6,No,No,5,5,100%,5,Male
+ENTJ-A,2023,Junior,3.3-3.6,No,No,5,5,75%,5,Female
+ENFP-T,2023,Junior,> 3.6,No,No,3,2,25%,3,Male
+ENFP-A,2023,Junior,> 3.6,No,Yes,4,4,100%,4,Female
+ISTJ-A,2022,Senior,> 3.6,No,No,4,4,100%,4,Male
+ESFJ-A,2022,Senior,> 3.6,No,No,5,5,0%,5,Male
+ISFJ-T,2022,Senior,> 3.6,No,Yes,5,3,0%,5,Male
+INFP-T,2022,Senior,> 3.6,No,No,5,3,0%,4,Female
+ESTP-T,2022,Senior,> 3.6,"Yes, from a 4 year college",No,4,3,0%,3,Female
+ISFJ-T,2022,Senior,> 3.6,No,No,4,3,100%,4,Female
+ENTJ-A,2022,Senior,> 3.6,No,No,5,5,0%,5,Female
+INTJ-A,2022,Senior,2.5-3.0,"Yes, from a 2 year college",No,4,1,0%,3,Male
+INTJ-T,2023,Junior,3.3-3.6,No,No,5,4,100%,5,Female
+ESTP-T,2022,Senior,> 3.6,No,No,3,3,0%,4,Female
+INFJ-T,2023,Junior,3.3-3.6,No,No,4,4,100%,4,Female
+INFP-T,2023,Junior,> 3.6,No,No,4,4,0%,4,Male
+ISTJ-A,2024,Sophmore,3.3-3.6,No,No,4,5,100%,4,Female
+INFJ-A,2023,Junior,3.3-3.6,No,Yes,5,4,0%,5,Male
+INTP-A,2023,Junior,> 3.6,No,No,5,4,0%,5,Male
+INTJ-A,2023,Junior,> 3.6,No,Yes,5,3,0%,4,Female
+INFP-T,2024,Junior,> 3.6,No,No,5,4,0%,4,Male
+ESTJ-T,2023,Junior,> 3.6,No,No,5,5,0%,5,Female
+INFJ-T,2024,Sophmore,> 3.6,No,No,4,4,0%,5,Female
+ENTP-A,2022,Senior,> 3.6,No,Yes,4,5,0%,5,Male
+INFJ-T,2022,Senior,> 3.6,No,No,3,3,75%,3,Female
+ESFP-A,2022,Senior,> 3.6,"Yes, from a 4 year college",No,4,4,0%,4,Male
+ESFJ-A,2022,Senior,3.3-3.6,No,No,5,4,0%,5,Female
+INTP-A,2023,Junior,> 3.6,No,Yes,4,4,0%,5,Male
+INFJ-A,2022,Senior,> 3.6,No,Yes,3,4,0%,4,Male
+ENTJ-A,2022,Senior,> 3.6,"Yes, from a 2 year college",Yes,4,4,0%,4,Male
+ENTJ-A,2023,Junior,> 3.6,No,Yes,5,5,0%,5,Female
+ESFJ-T,2022,Senior,> 3.6,No,No,3,5,0%,4,Female
+ESFJ-T,2022,Senior,> 3.6,No,No,5,2,0%,3,Female
+ISFJ-T,2022,Senior,> 3.6,No,Yes,5,4,0%,4,Female
+ESTJ-T,2022,Senior,> 3.6,No,No,3,3,25%,4,Male
+ISFJ-A,2022,Junior,> 3.6,No,No,4,4,25%,4,Male
+ENTJ-A,2023,Junior,> 3.6,No,No,4,5,0%,5,Male
+ISTJ-A,2024,Junior,> 3.6,No,No,4,1,25%,3,Male
+ENTJ-A,2023,Junior,> 3.6,No,No,5,5,100%,5,Female
+INTP-T,2023,Junior,> 3.6,No,No,3,3,0%,3,Female
+ESTJ-A,2022,Senior,3.3-3.6,No,No,4,5,100%,4,Male
+ISTJ-A,2022,Senior,> 3.6,"Yes, from a 2 year college",No,4,4,0%,5,Male
+INFP-T,2022,Senior,> 3.6,No,No,4,4,25%,4,Female
+ISFJ-A,2023,Junior,> 3.6,No,No,5,5,0%,5,Male
+ENFJ-T,2022,Senior,3.3-3.6,"Yes, from a 4 year college",No,4,5,75%,4,Female
+ESTP-A,2022,Senior,3.3-3.6,No,No,4,5,0%,5,Male
+ENFJ-A,2022,Senior,3.3-3.6,"Yes, from a 2 year college",No,5,5,75%,5,Male
+ENFP-A,2023,Junior,> 3.6,No,No,4,5,75%,5,Female
+INTJ-T,2022,Senior,> 3.6,"Yes, from a 4 year college",No,4,3,0%,4,Female
+ISFJ-T,2022,Senior,> 3.6,No,No,4,4,0%,4,Female
+ISFP-T,2022,Senior,> 3.6,No,Yes,5,4,0%,5,Female
+INFJ-A,2023,Junior,3.3-3.6,No,No,5,4,0%,4,Female
+ENFJ-A,2023,Junior,> 3.6,No,No,4,4,0%,4,Female
+ENFP-A,2022,Senior,3.3-3.6,No,No,5,5,25%,5,Male
+INTP-A,2023,Junior,> 3.6,No,Yes,5,4,25%,5,Male
+INTP-T,2023,Junior,> 3.6,No,No,3,5,50%,4,Male
+INFP-T,2023,Junior,3.3-3.6,No,No,3,3,25%,3,Female
+ISTJ-T,2024,Junior,> 3.6,No,No,4,2,0%,4,Male
+ISFP-A,2023,Junior,> 3.6,No,No,4,5,0%,4,Male
+ENTP-T,2023,Junior,3.0-3.3,No,No,5,4,50%,5,Female
+ENFJ-A,2023,Junior,> 3.6,No,No,4,4,100%,4,Male
+ENFJ-A,2022,Senior,3.3-3.6,No,No,3,4,50%,4,Male
+ENTJ-A,2023,Junior,> 3.6,No,Yes,4,4,50%,4,Male
+ENTP-T,2022,Senior,> 3.6,No,No,4,5,0%,4,Male
+ENFJ-A,2022,Senior,> 3.6,No,No,5,5,100%,5,Male
+ESTJ-A,2023,Junior,> 3.6,No,No,3,4,25%,4,Female
+ENTJ-T,2024,Junior,> 3.6,No,No,5,5,0%,5,Female
+INTJ-A,2022,Senior,3.3-3.6,"Yes, from a 4 year college",No,3,3,0%,4,Male
+INFP-A,2024,Sophmore,3.3-3.6,No,No,3,3,0%,3,Male
+ENFP-T,2024,Sophmore,> 3.6,No,No,4,4,50%,4,Male
+ISTJ-T,2022,Senior,3.3-3.6,No,No,4,4,50%,4,Male
+ENFJ-T,2023,Junior,3.3-3.6,"Yes, from a 2 year college",No,4,4,0%,4,Male
+ENFP-T,2022,Junior,> 3.6,No,Yes,3,3,25%,3,Male
+ISFP-A,2023,Junior,> 3.6,No,No,5,4,0%,4,Female
+ISFP-T,2022,Senior,> 3.6,"Yes, from a 4 year college",Yes,3,4,0%,3,Female
+ENFP-T,2022,Senior,> 3.6,No,No,4,5,0%,5,Male
+INFJ-T,2022,Senior,> 3.6,No,No,3,4,50%,4,Female
+ESFJ-A,2023,Junior,> 3.6,No,No,5,5,100%,5,Female
+INTJ-T,2023,Junior,3.3-3.6,No,Yes,4,3,0%,4,Male
+ENFP-T,2023,Junior,> 3.6,No,Yes,4,5,0%,5,Female
+ESTJ-A,2024,Sophmore,> 3.6,No,Yes,4,4,0%,4,Female
+ESTP-T,2022,Senior,> 3.6,"Yes, from a 4 year college",Yes,3,3,50%,3,Female
+ENTJ-A,2025,Senior,3.3-3.6,No,Yes,3,4,0%,4,Male
+ENFJ-T,2022,Senior,> 3.6,No,No,4,4,0%,4,Male
